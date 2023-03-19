@@ -1,0 +1,29 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name = "Regression" verbose="1">
+    <test name = "UITest">
+        <classes>
+
+
+
+            <class name ="com.internet.herokuapp.testCases.ABTesting">
+                <methods>
+                    <include name="urlValidation" />
+                    <include name="abTesting" />
+
+                </methods>
+            </class>
+
+
+            <class name ="com.internet.herokuapp.testCases.AddRemoveElement">
+                <methods>
+                    <include name="addRemoveElement" />
+                </methods>
+            </class>
+
+
+
+
+        </classes>
+    </test>
+</suite>
