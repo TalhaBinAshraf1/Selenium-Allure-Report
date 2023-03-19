@@ -1,0 +1,6 @@
+com\internet\herokuapp\testCases\AddRemoveElement.class
+com\internet\herokuapp\pages\BasePage.class
+com\internet\herokuapp\testCases\ABTesting.class
+com\internet\herokuapp\pages\LandingPage.class
+com\internet\herokuapp\testCases\BaseClass.class
+com\internet\herokuapp\utilities\Data.class

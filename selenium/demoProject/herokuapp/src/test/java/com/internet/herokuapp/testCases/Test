@@ -1,0 +1,9 @@
+package com.internet.herokuapp.testCases;
+
+public class Test extends BaseClass {
+
+
+
+    String a = "Test code";
+
+}
